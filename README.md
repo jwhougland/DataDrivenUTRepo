@@ -1,2 +1,2 @@
 # DataDrivenUTRepo
- Experiment with data driven unit testing with a CSV source for the data that is run against C# code
+ Experiment with data driven unit testing with a data row annotations above test methods that are run against a basic calculator class in a .NET Core C# console application.
